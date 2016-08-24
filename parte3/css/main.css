@@ -1,1 +1,25 @@
-/* Pon tu código css aqui */
+.box{
+	width: 200px;
+	height: 200px;
+}
+
+body{
+	margin:0;
+	padding: 0;
+	position: relative;
+	left: 70px;
+	top: 100px;
+}
+
+.rosado{
+	background-color: #ee3e64;
+}
+
+.azul{
+	background-color: #44accf;
+	margin-left: 200px;
+}
+
+.verde{
+	background-color: #b7d84b;
+}
