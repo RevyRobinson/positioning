@@ -1,0 +1,25 @@
+.box{
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+body{
+	margin:0;
+	padding: 0;
+}
+
+.rosado{
+	background-color: #ee3e64;
+	left: 30px;
+}
+
+.azul{
+	background-color: #44accf;
+	bottom: 50px;
+}
+
+.verde{
+	background-color: #b7d84b;
+	top: 60px;
+}
